@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CST407_Assignment_2</string>
+
+    <string name="SelectIngredient">Select ingredient:</string>
+    <string-array name="Ingredients">
+        <item>N/A</item>
+        <item>1oz Heavy Cream</item>
+        <item>1oz Hot Milk</item>
+        <item>1oz Foamed Milk</item>
+        <item>3oz Hot Water</item>
+        <item>3oz Ice Cream</item>
+        <item>3oz Whipped Cream</item>
+        <item>4oz Milk Foam</item>
+        <item>4oz Steamed Milk</item>
+        <item>4oz Brewed Coffee</item>
+    </string-array>
+    <string-array name="ingredients" />
+
+    <string name="txtViewEspresso">Espresso Amount</string>
+    <string name="let_s_make_coffee">Let\'s Make Coffee</string>
+    <string name="txtViewDrinkName">Name of the Drink</string>
+    <string name="_2_oz">2 oz</string>
+    <string name="_1_oz">1 oz</string>
+    <string name="_3_oz">3 oz</string>
+</resources>
